@@ -1,13 +1,15 @@
 # AutoSched
 
-⚠️ This is an unofficial tool and is not affiliated with Ateneo de Davao University.
-**This extension only works on Desktop browsers. Mobile browsers are not supported.**
-
----
-
 AutoSched is a Chrome extension that extracts your class schedule from the
 Student Information System (SIS) of Ateneo de Davao University and automatically
 generates a timetable.
+
+---
+
+⚠️ This is an unofficial tool and is not affiliated with Ateneo de Davao University.
+
+**This extension only works on Desktop browsers. Mobile browsers are not supported.**
+
 
 ---
 
